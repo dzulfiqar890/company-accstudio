@@ -1,9 +1,6 @@
-## Disclaimer
+##Tentang Kami##
+Arte Con Clase secara harfiah berarti "Seni dengan Kelas" yang mencerminkan komitmen perusahaan dalam menciptakan karya seni dan desain yang tidak hanya indah, tetapi juga penuh dengan keanggunan dan rasa hormat terhadap estetika yang tinggi. Filosofi ini menekankan bahwa setiap proyek yang ditangani oleh Arte Con Clase Studio harus mencerminkan kualitas premium, kehalusan, dan cita rasa seni yang tinggi.
 
-This source code is shared **for learning purposes only**. I created it to help beginners explore and experiment with coding techniques, and I’m happy to provide it freely for educational use.
+Perusahaan ini berfokus pada penciptaan karya-karya desain yang elegan dan berkelas, yang mampu berkomunikasi dengan audiens pada tingkat yang lebih dalam. Arte Con Clase juga mencerminkan kesopanan dan profesionalisme dalam setiap aspek pekerjaan, dari konsep awal hingga hasil akhir, memastikan bahwa setiap detail dipikirkan dengan cermat dan dieksekusi dengan sempurna.
 
-**Please respect the intent of this resource:**
-- Do not resell or distribute this code as-is for commercial purposes.
-- Before using any part of this code in your own projects, especially commercially, ensure that you’ve modified it to fit your unique needs and **always check any applicable licensing requirements**.
-
-Thank you for understanding, and happy coding!
+Dengan nama ini, Arte Con Clase Studio berusaha untuk menjadi simbol dari desain yang tidak hanya memenuhi kebutuhan fungsional tetapi juga memberikan pengalaman estetis yang mengesankan dan berkesan. Perusahaan ini berdedikasi untuk merayakan seni dalam bentuknya yang paling murni, sambil tetap relevan dan responsif terhadap tren modern.
