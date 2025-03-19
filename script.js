@@ -47,3 +47,19 @@ function eraseText() {
 }
 
 typeText();
+
+const slider = document.querySelectorAll(".slider");
+
+  slider.forEach((slideContainer) => {
+    const slides = slideContainer.querySelectorAll("img");
+    let index = 0;
+
+    setInterval(() => {
+      index++;
+      if (index >= slides.length) index = 0;
+      slideContainer.scrollTo({
+        left: slides[index].offsetLeft,
+        behavior: "smooth",
+      });
+    }, 3100); 
+  });
