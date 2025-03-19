@@ -17,3 +17,33 @@ const yearText = document.getElementById("year");
 const year = new Date().getFullYear();
 
 yearText.textContent = year;
+
+const texts = ["and graffiti", "and logo", "and mokeup", "and art"];
+let index = 0;
+let charIndex = 0;
+const speed = 100;
+const delay = 1200;
+const textElement = document.getElementById("typingText");
+
+function typeText() {
+  if (charIndex < texts[index].length) {
+    textElement.textContent += texts[index].charAt(charIndex);
+    charIndex++;
+    setTimeout(typeText, speed);
+  } else {
+    setTimeout(eraseText, delay);
+  }
+}
+
+function eraseText() {
+  if (charIndex > 0) {
+    textElement.textContent = texts[index].substring(0, charIndex - 1);
+    charIndex--;
+    setTimeout(eraseText, speed / 2);
+  } else {
+    index = (index + 1) % texts.length;
+    setTimeout(typeText, speed);
+  }
+}
+
+typeText();

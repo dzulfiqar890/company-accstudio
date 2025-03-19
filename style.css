@@ -47,6 +47,10 @@ header.aos-init.aos-animate.hidden {
   transform: translateY(-100%);
 }
 
+.about .container .content img:hover {
+    filter: none;
+}
+
 header .container .content {
   display: flex;
   justify-content: space-between;
@@ -567,4 +571,31 @@ footer {
     box-shadow: 0 0 2px #ffffff, 0 0 5px #ffffff, 0 0 10px #ffffff,
       0 0 20px #ffffff, 0 0 40px #ffffff;
   }
+}
+
+.tooltip {
+  position: relative;
+  cursor: pointer;
+}
+
+.tooltip-box {
+  position: absolute;
+  top: 140%; 
+  left: 0;
+  background-color: #fefefe;
+  color: #333;
+  padding: 10px;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+  z-index: 999;
+  width: 200px;
+  display: none;
+  font-size: 14px;
+  transition: opacity 0.3s ease;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.tooltip:hover .tooltip-box {
+  display: block;
 }
