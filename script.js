@@ -18,7 +18,7 @@ const year = new Date().getFullYear();
 
 yearText.textContent = year;
 
-const texts = ["and graffiti", "and logo", "and mokeup", "and art"];
+const texts = ["and graffiti", "and logo design", "and mockup", "and art"];
 let index = 0;
 let charIndex = 0;
 const speed = 100;
