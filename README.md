@@ -4,4 +4,4 @@ Arte Con Clase secara harfiah berarti "Seni dengan Kelas" yang mencerminkan komi
 
 Perusahaan ini berfokus pada penciptaan karya-karya desain yang elegan dan berkelas, yang mampu berkomunikasi dengan audiens pada tingkat yang lebih dalam. Arte Con Clase juga mencerminkan kesopanan dan profesionalisme dalam setiap aspek pekerjaan, dari konsep awal hingga hasil akhir, memastikan bahwa setiap detail dipikirkan dengan cermat dan dieksekusi dengan sempurna.
 
-Dengan nama ini, Arte Con Clase Studio berusaha untuk menjadi simbol dari desain yang tidak hanya memenuhi kebutuhan fungsional tetapi juga memberikan pengalaman estetis yang mengesankan dan berkesan. Perusahaan ini berdedikasi untuk merayakan seni dalam bentuknya yang paling murni, sambil tetap relevan dan responsif terhadap tren modern.
+Dengan nama ini, Arte Con Clase Studio berusaha untuk menjadi simbol dari desain yang tidak hanya memenuhi kebutuhan fungsional tetapi juga memberikan pengalaman estetis yang mengesankan dan berkesan. Perusahaan ini berdedikasi untuk merayakan seni dalam bentuknya yang paling murni, sambil tetap relevan dan responsif terhadap tren modern..
