@@ -63,10 +63,3 @@ const slider = document.querySelectorAll(".slider");
       });
     }, 3100); 
   });
-
-  const menuBtn = document.querySelector('.menu');
-  const nav = document.querySelector('nav');
-
-  menuBtn.addEventListener('click', () => {
-    nav.classList.toggle('active');
-  });
